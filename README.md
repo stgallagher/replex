@@ -1,2 +1,4 @@
 # replex
-Full stack workout logging application
+Workout log
+
+Work in-progress
