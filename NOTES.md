@@ -60,7 +60,11 @@ Technical Goals
 
 Order
 * Update access to Github for project storage
+    * DONE
 * Update this as README.txt
+    * DONE
+* STUDY - Intro to Swift programming (6 hrs)
+    * https://www.educative.io/courses/swift-programming-mobile-app
 * STUDY - Intro for React and GraphQL (15 hrs)
     * https://www.educative.io/courses/full-stack-applications-with-graphql
 * Implement UI Framework - GraphQL (Est - 12 hrs)
