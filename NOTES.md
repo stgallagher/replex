@@ -63,6 +63,8 @@ Order
     * DONE
 * Update this as README.txt
     * DONE
+* STUDY - Official iOS App Dev tutorials (14 hrs)
+    * https://developer.apple.com/tutorials/app-dev-training/
 * STUDY - Intro to Swift programming (6 hrs)
     * https://www.educative.io/courses/swift-programming-mobile-app
 * STUDY - Intro for React and GraphQL (15 hrs)
